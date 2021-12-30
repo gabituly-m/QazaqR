@@ -1,0 +1,23 @@
+  body{
+    background-color: #2F49CF;
+  }
+  .logo1{
+    width: 200px;
+    height: 90px;
+  }
+  header{
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    }
+  hr{
+    width: 40px;
+  }
+  a{
+    color: lightgreen;
+    font-family: courier new;
+  }
